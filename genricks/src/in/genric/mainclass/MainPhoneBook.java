@@ -14,6 +14,9 @@ public class MainPhoneBook {
 
 
         System.out.println(ph.get(1));
+        for(int i=0;i<ph.size;i++){
+            
+        }
 
         
 

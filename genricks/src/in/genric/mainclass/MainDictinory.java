@@ -1,4 +1,6 @@
 package in.genric.mainclass;
+//Holidays key=date, value=name
+// 
 
 
 import in.genric.genricpacages.Dictnory;

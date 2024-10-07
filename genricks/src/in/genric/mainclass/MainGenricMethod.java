@@ -20,7 +20,7 @@ public class MainGenricMethod {
         System.out.println(data);
 
     }
-    public static <T> void printArrayData(T... arays){
+    public static <T> void printArrayData(@SuppressWarnings("unchecked") T... arays){
 
         for(int i=0;i<arays.length;i++){
             System.out.print(arays[i]);   
